@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nokia",
+      "price": 1200,
+      "date": "12/12/2011"
+    },
+    {
+      "id": 2,
+      "name": "Mac Pro",
+      "price": 1200,
+      "date": "12/12/2012"
+    },
+    {
+      "id": 3,
+      "name": "Mac Pro",
+      "price": 1200,
+      "date": "12/12/2012"
+    },
+    {
+      "id": "4",
+      "name": "Sneakers",
+      "price": 2,
+      "date": "2022-03-30"
+    }
+  ]
+}
